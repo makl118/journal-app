@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="en">
-
 <head>
   <!-- Required meta tags -->
   <meta charset="utf-8">
@@ -16,9 +15,9 @@
   <div class="container">
 
     <div class="row">
-      <div class="col d-none d-md-inline">
+      <div class="col-2  d-none d-md-inline">
       </div>
-      <div class="col-*">
+      <div class="col">
         <h1 class="display-2 mt-3">Journal App</h1>
         <div class="row mb-5">
           <div class="col-10">
@@ -45,7 +44,7 @@
           </div>
         </div><!-- row -->
       </div><!-- col -->
-      <div class="col d-none d-md-inline">
+      <div class="col-2 d-none d-md-inline">
       </div>
     </div>
 
